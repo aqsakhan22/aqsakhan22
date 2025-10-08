@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Live Streaming app**
 
-- 🌱 I’m currently learning **Python , React Native , Android app development**
+- 🌱 I’m currently learning **Python , Android app development (Kotlin)**
 
 - 📫 How to reach me **aqsakhan19966@gmail.com**
 
