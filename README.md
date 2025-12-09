@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqsakhan22" alt="aqsakhan22" /></a> </p>
 
-- 🔭 I’m currently working on **Live Streaming app**
 
-- 🌱 I’m currently learning **Python , Android app development (Kotlin)**
+
+- 🌱 I’m currently learning and working on  ** Datascience with AI and Mobile App Development (Flutter)**
 
 - 📫 How to reach me **aqsakhan19966@gmail.com**
 
