@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aqsakhan22" alt="aqsakhan22" /></a> </p>
 
-- 🔭 I’m currently working on **Datascience and Mobile app developmen**
+- 🔭 I’m currently working on **Mobile app development**
 
-- 🌱 I’m currently learning **Python for datascience with Ai , Mobile development ios and android**
 
-- 💬 Ask me about **dart,python,etc**
+- 💬 Ask me about **dart,python,machine learning,backend Api**
 
 - 📫 How to reach me **aqsakhan19966@gmail.com**
 
