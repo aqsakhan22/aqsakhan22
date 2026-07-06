@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aqsa khan</h1>
-<h3 align="center">A passionate full stack flutter app developer from Pakistan</h3>
+<h3 align="center">A passionate full stack flutter app developer and AI Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsakhan22&label=Profile%20views&color=0e75b6&style=flat" alt="aqsakhan22" /> </p>
 
