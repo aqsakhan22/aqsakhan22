@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Datascience and Mobile app development**
 
-- 💬 Ask me about **dart,python,Machine Learning,data analytics**
+- 💬 Ask me about **dart,python,Machine Learning,data analytics,Genrative AI**
 
 - 📫 How to reach me **aqsakhan19966@gmail.com**
 
