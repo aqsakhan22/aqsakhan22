@@ -164,13 +164,17 @@ Currently, I'm expanding my expertise in **Generative AI**, creating practical A
 
 ---
 
-# 📊 Most Used Languages
+# 💻 Programming Languages
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsakhan22&layout=compact&theme=tokyonight"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,dart,java,c,cpp" />
 </p>
+
+- Python
+- Dart
+- Java
+- Databases
+  
 
 ---
 
