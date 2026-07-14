@@ -167,13 +167,14 @@ Currently, I'm expanding my expertise in **Generative AI**, creating practical A
 # 💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,dart,java,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,dart,java," />
 </p>
 
 - Python
 - Dart
 - Java
 - Databases
+- Mobile Development: Flutter
   
 
 ---
