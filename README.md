@@ -6,7 +6,7 @@
 
 I'm a Software Engineer with **3 years of professional experience in Flutter Mobile App Development**. My passion for Artificial Intelligence inspired me to transition into **Data Science and Generative AI**, where I'm building intelligent applications using modern AI technologies.
 
-Currently, I'm expanding my expertise in **Generative AI**, creating practical AI-powered applications with **LLMs, LangChain, Hugging Face, Groq, and Gradio**.
+Currently, I'm expanding my expertise in **Generative AI**, creating practical AI-powered applications with **LLMs, LangChain, Hugging Face, Groq, and Gradio , Reactjs with frontend and backend knowledge**.
 
 ---
 
